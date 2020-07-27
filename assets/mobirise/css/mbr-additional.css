@@ -1689,9 +1689,9 @@ section.lazy-placeholder:after {
   background-image: url("../../../assets/images/artworks-000187118355-c1opba-t500x500.jpg");
 }
 .cid-s5XlKnHafH {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #2e2e2e;
 }
 .cid-s5XlKnHafH h3 {
   text-align: center;
@@ -1703,7 +1703,7 @@ section.lazy-placeholder:after {
   margin: 0 auto;
 }
 .cid-s5XlKnHafH .mbr-section-subtitle {
-  color: #767676;
+  color: #efefef;
 }
 .cid-s5XlKnHafH .card {
   -webkit-flex-basis: 100%;
@@ -1714,13 +1714,22 @@ section.lazy-placeholder:after {
   stroke: rgba(206, 206, 206, 0.4);
 }
 .cid-s5XlKnHafH path {
-  stroke: #149dcc;
+  stroke: #894d00;
 }
 @media (max-width: 991px) and (min-width: 768px) {
   .cid-s5XlKnHafH .card {
     -webkit-flex-basis: 33%;
     flex-basis: 33%;
   }
+}
+.cid-s5XlKnHafH .mbr-section-title {
+  color: #ffffff;
+}
+.cid-s5XlKnHafH P {
+  color: #ffffff;
+}
+.cid-s5XlKnHafH H4 {
+  color: #ffffff;
 }
 .cid-s5XklpJDtR {
   padding-top: 30px;
